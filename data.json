@@ -1,0 +1,348 @@
+{
+  "generated_at_utc": "2026-05-29T05:52:36.519515+00:00",
+  "kpis": {
+    "posts_live": 14,
+    "posts_indexed": 14,
+    "impressions_90d": 9585,
+    "clicks_90d": 26,
+    "leads_90d": 464,
+    "leads_new": 209,
+    "leads_contacted": 0,
+    "leads_converted": 0,
+    "leads_spam": 255,
+    "conversion_rate_pct": 0.0,
+    "revenue_usd": 0.0
+  },
+  "bucket_counts": {
+    "visible-but-no-clicks": 3,
+    "performing": 2,
+    "indexing-but-invisible": 7,
+    "too-new": 3,
+    "not-indexed": 5
+  },
+  "performance_rows": [
+    {
+      "wp_post_id": 18558,
+      "title": "Whole House Remodel Cost in Wisconsin: 2026 Per Sq Ft Guide",
+      "wp_url": "https://tandjremodeling.com/whole-house-remodel-cost-wisconsin-per-square-foot/",
+      "target_keyword": "whole house remodel cost wisconsin per square foot",
+      "age_days": 19,
+      "impressions": 6697,
+      "clicks": 6,
+      "ctr_pct": 0.09,
+      "avg_position": 6.4,
+      "leads_total": 0,
+      "bucket": "visible-but-no-clicks",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18576,
+      "title": "Remodel vs. Build New in Wisconsin: Which Is Cheaper in 2026?",
+      "wp_url": "https://tandjremodeling.com/remodel-vs-build-new-cost-wisconsin/",
+      "target_keyword": "remodel vs build new cost",
+      "age_days": 19,
+      "impressions": 1142,
+      "clicks": 2,
+      "ctr_pct": 0.18,
+      "avg_position": 9.2,
+      "leads_total": 0,
+      "bucket": "visible-but-no-clicks",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18556,
+      "title": "Home Addition Cost in Wisconsin: Per Sq Ft in 2026",
+      "wp_url": "https://tandjremodeling.com/home-addition-cost-wisconsin-per-square-foot/",
+      "target_keyword": "home addition cost wisconsin per square foot",
+      "age_days": 19,
+      "impressions": 648,
+      "clicks": 10,
+      "ctr_pct": 1.54,
+      "avg_position": 5.6,
+      "leads_total": 0,
+      "bucket": "performing",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18716,
+      "title": "What Homeowners Can Do Without a Permit in Wisconsin (2026 Waukesha County Guide)",
+      "wp_url": "https://tandjremodeling.com/what-can-a-homeowner-do-without-a-permit-in-wisconsin/",
+      "target_keyword": "what can a homeowner do without a permit in Wisconsin",
+      "age_days": 14,
+      "impressions": 527,
+      "clicks": 7,
+      "ctr_pct": 1.33,
+      "avg_position": 7.6,
+      "leads_total": 0,
+      "bucket": "performing",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18718,
+      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
+      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 14,
+      "impressions": 280,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 13.7,
+      "leads_total": 0,
+      "bucket": "visible-but-no-clicks",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18661,
+      "title": "How Long Does a Basement Remodel Take? 2026 Timeline for Waukesha County",
+      "wp_url": "https://tandjremodeling.com/how-long-does-a-basement-remodel-take/",
+      "target_keyword": "how long does a basement remodel take",
+      "age_days": 15,
+      "impressions": 57,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 39.1,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18709,
+      "title": "20x20 Room Addition Cost in Wisconsin (2026 Guide)",
+      "wp_url": "https://tandjremodeling.com/20x20-room-addition-cost-wisconsin/",
+      "target_keyword": "20x20 room addition cost",
+      "age_days": 14,
+      "impressions": 55,
+      "clicks": 1,
+      "ctr_pct": 1.82,
+      "avg_position": 12.3,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18656,
+      "title": "Bathroom Remodeling Contractor Pewaukee WI: 2026 Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/bathroom-remodeling-contractor-pewaukee-wi/",
+      "target_keyword": "bathroom remodeling contractor Pewaukee WI",
+      "age_days": 15,
+      "impressions": 54,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 12.3,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18659,
+      "title": "20\u00d720 Kitchen Remodel Cost in Waukesha County, WI (2026)",
+      "wp_url": "https://tandjremodeling.com/20x20-kitchen-remodel-cost/",
+      "target_keyword": "how much does a 20x20 kitchen remodel cost in Wisconsin",
+      "age_days": 15,
+      "impressions": 54,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 8.5,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18820,
+      "title": "Commercial Renovation Cost Per Square Foot in Wisconsin: 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/commercial-renovation-cost-per-square-foot-wisconsin/",
+      "target_keyword": "commercial renovation cost per square foot Wisconsin",
+      "age_days": 7,
+      "impressions": 14,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 16.7,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18663,
+      "title": "Remodeling Contractor in Menomonee Falls, WI: 2026 Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/remodeling-contractor-menomonee-falls-wi/",
+      "target_keyword": "remodeling contractor Menomonee Falls WI",
+      "age_days": 15,
+      "impressions": 6,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 2.7,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18813,
+      "title": "Kitchen Remodel Permit Requirements in Waukesha, WI (2026 Guide)",
+      "wp_url": "https://tandjremodeling.com/kitchen-remodel-permit-requirements-waukesha-wisconsin/",
+      "target_keyword": "kitchen remodel permit requirements Waukesha Wisconsin",
+      "age_days": 7,
+      "impressions": 1,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 1.0,
+      "leads_total": 0,
+      "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18811,
+      "title": "Fiber Cement vs. Vinyl Siding in Wisconsin: 2026 Cost & Climate Guide",
+      "wp_url": "https://tandjremodeling.com/fiber-cement-siding-vs-vinyl-siding-wisconsin/",
+      "target_keyword": "fiber cement siding vs vinyl siding Wisconsin",
+      "age_days": 7,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "not-indexed",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18822,
+      "title": "7 Warning Signs Your Waukesha County Basement Needs Remodeling (2026)",
+      "wp_url": "https://tandjremodeling.com/warning-signs-your-basement-needs-remodeling/",
+      "target_keyword": "warning signs your basement needs remodeling",
+      "age_days": 7,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "not-indexed",
+      "indexed": false
+    }
+  ],
+  "daily_lead_counts": [
+    {
+      "date": "2026-04-29",
+      "count": 3
+    },
+    {
+      "date": "2026-04-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-01",
+      "count": 1
+    },
+    {
+      "date": "2026-05-02",
+      "count": 0
+    },
+    {
+      "date": "2026-05-03",
+      "count": 0
+    },
+    {
+      "date": "2026-05-04",
+      "count": 0
+    },
+    {
+      "date": "2026-05-05",
+      "count": 0
+    },
+    {
+      "date": "2026-05-06",
+      "count": 0
+    },
+    {
+      "date": "2026-05-07",
+      "count": 1
+    },
+    {
+      "date": "2026-05-08",
+      "count": 0
+    },
+    {
+      "date": "2026-05-09",
+      "count": 0
+    },
+    {
+      "date": "2026-05-10",
+      "count": 0
+    },
+    {
+      "date": "2026-05-11",
+      "count": 0
+    },
+    {
+      "date": "2026-05-12",
+      "count": 1
+    },
+    {
+      "date": "2026-05-13",
+      "count": 3
+    },
+    {
+      "date": "2026-05-14",
+      "count": 1
+    },
+    {
+      "date": "2026-05-15",
+      "count": 0
+    },
+    {
+      "date": "2026-05-16",
+      "count": 1
+    },
+    {
+      "date": "2026-05-17",
+      "count": 0
+    },
+    {
+      "date": "2026-05-18",
+      "count": 0
+    },
+    {
+      "date": "2026-05-19",
+      "count": 0
+    },
+    {
+      "date": "2026-05-20",
+      "count": 0
+    },
+    {
+      "date": "2026-05-21",
+      "count": 0
+    },
+    {
+      "date": "2026-05-22",
+      "count": 0
+    },
+    {
+      "date": "2026-05-23",
+      "count": 0
+    },
+    {
+      "date": "2026-05-24",
+      "count": 0
+    },
+    {
+      "date": "2026-05-25",
+      "count": 0
+    },
+    {
+      "date": "2026-05-26",
+      "count": 0
+    },
+    {
+      "date": "2026-05-27",
+      "count": 0
+    },
+    {
+      "date": "2026-05-28",
+      "count": 0
+    },
+    {
+      "date": "2026-05-29",
+      "count": 0
+    }
+  ],
+  "per_post_leads": []
+}
