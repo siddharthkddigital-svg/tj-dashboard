@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-05-30T05:48:32.415128+00:00",
+  "generated_at_utc": "2026-05-30T06:08:31.887572+00:00",
   "kpis": {
-    "posts_live": 15,
+    "posts_live": 16,
     "posts_indexed": 15,
     "impressions_90d": 9586,
     "clicks_90d": 26,
@@ -208,6 +208,20 @@
       "title": "Fiber Cement vs. Vinyl Siding in Wisconsin: 2026 Cost & Climate Guide",
       "wp_url": "https://tandjremodeling.com/fiber-cement-siding-vs-vinyl-siding-wisconsin/",
       "target_keyword": "fiber cement siding vs vinyl siding Wisconsin",
+      "age_days": 8,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "not-indexed",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18817,
+      "title": "Kitchen Remodeling Contractor Menomonee Falls WI: 2026 Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/kitchen-remodeling-contractor-menomonee-falls-wi/",
+      "target_keyword": "kitchen remodeling contractor Menomonee Falls WI",
       "age_days": 8,
       "impressions": 0,
       "clicks": 0,
