@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-01T10:28:31.344703+00:00",
+  "generated_at_utc": "2026-06-01T10:48:31.432472+00:00",
   "kpis": {
     "posts_live": 18,
-    "posts_indexed": 20,
-    "impressions_90d": 36270,
+    "posts_indexed": 13,
+    "impressions_90d": 9619,
     "clicks_90d": 34,
     "leads_90d": 456,
     "leads_new": 204,
@@ -14,11 +14,11 @@
     "revenue_usd": 0.0
   },
   "bucket_counts": {
-    "visible-but-no-clicks": 3,
+    "visible-but-no-clicks": 2,
     "performing": 2,
-    "indexing-but-invisible": 10,
-    "too-new": 13,
-    "not-indexed": 4
+    "indexing-but-invisible": 9,
+    "not-indexed": 3,
+    "too-new": 2
   },
   "performance_rows": [
     {
@@ -166,7 +166,7 @@
       "title": "Fiber Cement vs. Vinyl Siding in Wisconsin: 2026 Cost & Climate Guide",
       "wp_url": "https://tandjremodeling.com/fiber-cement-siding-vs-vinyl-siding-wisconsin/",
       "target_keyword": "fiber cement siding vs vinyl siding Wisconsin",
-      "age_days": 10,
+      "age_days": 11,
       "impressions": 1,
       "clicks": 1,
       "ctr_pct": 100.0,
@@ -180,7 +180,7 @@
       "title": "Kitchen Remodel Permit Requirements in Waukesha, WI (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/kitchen-remodel-permit-requirements-waukesha-wisconsin/",
       "target_keyword": "kitchen remodel permit requirements Waukesha Wisconsin",
-      "age_days": 10,
+      "age_days": 11,
       "impressions": 1,
       "clicks": 0,
       "ctr_pct": 0,
@@ -194,7 +194,7 @@
       "title": "Do You Need a Permit to Finish a Basement in Wisconsin? (2026 Waukesha County Guide)",
       "wp_url": "https://tandjremodeling.com/do-you-need-a-permit-to-finish-my-basement-in-wisconsin/",
       "target_keyword": "do I need a permit to finish my basement in Wisconsin",
-      "age_days": 10,
+      "age_days": 11,
       "impressions": 1,
       "clicks": 0,
       "ctr_pct": 0,
@@ -222,7 +222,7 @@
       "title": "Kitchen Remodeling Contractor Menomonee Falls WI: 2026 Hiring Guide",
       "wp_url": "https://tandjremodeling.com/kitchen-remodeling-contractor-menomonee-falls-wi/",
       "target_keyword": "kitchen remodeling contractor Menomonee Falls WI",
-      "age_days": 10,
+      "age_days": 11,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
