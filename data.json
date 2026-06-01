@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-01T07:28:31.693693+00:00",
+  "generated_at_utc": "2026-06-01T07:48:31.268421+00:00",
   "kpis": {
-    "posts_live": 16,
-    "posts_indexed": 17,
-    "impressions_90d": 9978,
+    "posts_live": 17,
+    "posts_indexed": 18,
+    "impressions_90d": 10274,
     "clicks_90d": 34,
     "leads_90d": 456,
     "leads_new": 204,
@@ -14,10 +14,11 @@
     "revenue_usd": 0.0
   },
   "bucket_counts": {
-    "visible-but-no-clicks": 3,
+    "visible-but-no-clicks": 2,
     "performing": 2,
+    "cannibalizing": 2,
     "indexing-but-invisible": 9,
-    "too-new": 9,
+    "too-new": 10,
     "not-indexed": 3
   },
   "performance_rows": [
@@ -54,7 +55,7 @@
       "title": "Home Addition Cost in Wisconsin: Per Sq Ft in 2026",
       "wp_url": "https://tandjremodeling.com/home-addition-cost-wisconsin-per-square-foot/",
       "target_keyword": "home addition cost wisconsin per square foot",
-      "age_days": 22,
+      "age_days": 23,
       "impressions": 812,
       "clicks": 14,
       "ctr_pct": 1.72,
@@ -88,7 +89,21 @@
       "ctr_pct": 0,
       "avg_position": 15.6,
       "leads_total": 0,
-      "bucket": "visible-but-no-clicks",
+      "bucket": "cannibalizing",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18959,
+      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/?p=18959",
+      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 0,
+      "impressions": 296,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 15.6,
+      "leads_total": 0,
+      "bucket": "cannibalizing",
       "indexed": true
     },
     {
@@ -138,7 +153,7 @@
       "title": "20x20 Room Addition Cost in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/20x20-room-addition-cost-wisconsin/",
       "target_keyword": "20x20 room addition cost",
-      "age_days": 17,
+      "age_days": 18,
       "impressions": 63,
       "clicks": 1,
       "ctr_pct": 1.59,
