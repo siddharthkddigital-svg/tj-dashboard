@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-01T10:08:32.015127+00:00",
+  "generated_at_utc": "2026-06-01T10:28:31.344703+00:00",
   "kpis": {
     "posts_live": 18,
-    "posts_indexed": 18,
-    "impressions_90d": 9687,
+    "posts_indexed": 20,
+    "impressions_90d": 36270,
     "clicks_90d": 34,
     "leads_90d": 456,
     "leads_new": 204,
@@ -14,9 +14,9 @@
     "revenue_usd": 0.0
   },
   "bucket_counts": {
-    "visible-but-no-clicks": 2,
+    "visible-but-no-clicks": 3,
     "performing": 2,
-    "indexing-but-invisible": 9,
+    "indexing-but-invisible": 10,
     "too-new": 13,
     "not-indexed": 4
   },
