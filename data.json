@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-01T08:34:42.479352+00:00",
+  "generated_at_utc": "2026-06-01T08:48:32.070657+00:00",
   "kpis": {
-    "posts_live": 17,
-    "posts_indexed": 19,
-    "impressions_90d": 10277,
+    "posts_live": 18,
+    "posts_indexed": 18,
+    "impressions_90d": 9687,
     "clicks_90d": 34,
     "leads_90d": 456,
     "leads_new": 204,
@@ -16,10 +16,9 @@
   "bucket_counts": {
     "visible-but-no-clicks": 2,
     "performing": 2,
-    "cannibalizing": 2,
     "indexing-but-invisible": 9,
-    "too-new": 11,
-    "not-indexed": 3
+    "too-new": 13,
+    "not-indexed": 4
   },
   "performance_rows": [
     {
@@ -79,34 +78,6 @@
       "indexed": true
     },
     {
-      "wp_post_id": 18718,
-      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
-      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
-      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 17,
-      "impressions": 296,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 15.6,
-      "leads_total": 0,
-      "bucket": "cannibalizing",
-      "indexed": true
-    },
-    {
-      "wp_post_id": 18959,
-      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
-      "wp_url": "https://tandjremodeling.com/?p=18959",
-      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 0,
-      "impressions": 296,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 15.6,
-      "leads_total": 0,
-      "bucket": "cannibalizing",
-      "indexed": true
-    },
-    {
       "wp_post_id": 18661,
       "title": "How Long Does a Basement Remodel Take? 2026 Timeline for Waukesha County",
       "wp_url": "https://tandjremodeling.com/how-long-does-a-basement-remodel-take/",
@@ -125,7 +96,7 @@
       "title": "Bathroom Remodeling Contractor Pewaukee WI: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/bathroom-remodeling-contractor-pewaukee-wi/",
       "target_keyword": "bathroom remodeling contractor Pewaukee WI",
-      "age_days": 18,
+      "age_days": 19,
       "impressions": 66,
       "clicks": 0,
       "ctr_pct": 0,
@@ -233,6 +204,20 @@
       "indexed": true
     },
     {
+      "wp_post_id": 18718,
+      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
+      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 17,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "not-indexed",
+      "indexed": false
+    },
+    {
       "wp_post_id": 18817,
       "title": "Kitchen Remodeling Contractor Menomonee Falls WI: 2026 Hiring Guide",
       "wp_url": "https://tandjremodeling.com/kitchen-remodeling-contractor-menomonee-falls-wi/",
@@ -258,6 +243,34 @@
       "avg_position": 0,
       "leads_total": 0,
       "bucket": "not-indexed",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18957,
+      "title": "Is $100,000 Enough to Renovate a Home? 2026 Budget Guide",
+      "wp_url": "https://tandjremodeling.com/?p=18957",
+      "target_keyword": "is $100,000 enough to renovate a home",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18959,
+      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin-2/",
+      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
       "indexed": false
     }
   ],
