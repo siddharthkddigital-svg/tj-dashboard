@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-01T07:48:31.268421+00:00",
+  "generated_at_utc": "2026-06-01T08:34:42.479352+00:00",
   "kpis": {
     "posts_live": 17,
-    "posts_indexed": 18,
-    "impressions_90d": 10274,
+    "posts_indexed": 19,
+    "impressions_90d": 10277,
     "clicks_90d": 34,
     "leads_90d": 456,
     "leads_new": 204,
@@ -18,7 +18,7 @@
     "performing": 2,
     "cannibalizing": 2,
     "indexing-but-invisible": 9,
-    "too-new": 10,
+    "too-new": 11,
     "not-indexed": 3
   },
   "performance_rows": [
