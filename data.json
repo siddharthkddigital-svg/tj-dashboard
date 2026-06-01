@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-06-01T12:48:32.428947+00:00",
+  "generated_at_utc": "2026-06-01T13:28:32.134646+00:00",
   "kpis": {
     "posts_live": 18,
     "posts_indexed": 13,
     "impressions_90d": 9619,
     "clicks_90d": 34,
-    "leads_90d": 457,
-    "leads_new": 204,
+    "leads_90d": 460,
+    "leads_new": 206,
     "leads_contacted": 0,
     "leads_converted": 0,
-    "leads_spam": 253,
+    "leads_spam": 254,
     "conversion_rate_pct": 0.0,
     "revenue_usd": 0.0
   },
@@ -82,7 +82,7 @@
       "title": "How Long Does a Basement Remodel Take? 2026 Timeline for Waukesha County",
       "wp_url": "https://tandjremodeling.com/how-long-does-a-basement-remodel-take/",
       "target_keyword": "how long does a basement remodel take",
-      "age_days": 18,
+      "age_days": 19,
       "impressions": 76,
       "clicks": 0,
       "ctr_pct": 0,
@@ -152,7 +152,7 @@
       "title": "Remodeling Contractor in Menomonee Falls, WI: 2026 Hiring Guide",
       "wp_url": "https://tandjremodeling.com/remodeling-contractor-menomonee-falls-wi/",
       "target_keyword": "remodeling contractor Menomonee Falls WI",
-      "age_days": 18,
+      "age_days": 19,
       "impressions": 9,
       "clicks": 0,
       "ctr_pct": 0,
@@ -397,15 +397,8 @@
     },
     {
       "date": "2026-06-01",
-      "count": 0
+      "count": 2
     }
   ],
-  "per_post_leads": [
-    {
-      "wp_post_id": 18558,
-      "leads": 1,
-      "converted": 0,
-      "revenue_usd": 0.0
-    }
-  ]
+  "per_post_leads": []
 }
