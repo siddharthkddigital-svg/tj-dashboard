@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-06-02T06:28:31.155262+00:00",
+  "generated_at_utc": "2026-06-02T06:48:31.153420+00:00",
   "kpis": {
     "posts_live": 21,
-    "posts_indexed": 16,
-    "impressions_90d": 9637,
+    "posts_indexed": 13,
+    "impressions_90d": 9619,
     "clicks_90d": 34,
     "leads_90d": 452,
     "leads_new": 202,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 2,
     "performing": 2,
     "indexing-but-invisible": 9,
-    "too-new": 5,
-    "not-indexed": 3
+    "not-indexed": 3,
+    "too-new": 5
   },
   "performance_rows": [
     {
@@ -148,20 +148,6 @@
       "indexed": true
     },
     {
-      "wp_post_id": 18943,
-      "title": "Average Kitchen Remodel Cost in Wisconsin (2026 Guide)",
-      "wp_url": "https://tandjremodeling.com/?p=18943",
-      "target_keyword": "what is the average cost of a kitchen remodel in wisconsin",
-      "age_days": 2,
-      "impressions": 13,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 37.7,
-      "leads_total": 0,
-      "bucket": "too-new",
-      "indexed": true
-    },
-    {
       "wp_post_id": 18663,
       "title": "Remodeling Contractor in Menomonee Falls, WI: 2026 Hiring Guide",
       "wp_url": "https://tandjremodeling.com/remodeling-contractor-menomonee-falls-wi/",
@@ -173,34 +159,6 @@
       "avg_position": 3.2,
       "leads_total": 0,
       "bucket": "indexing-but-invisible",
-      "indexed": true
-    },
-    {
-      "wp_post_id": 18965,
-      "title": "What Happens If You Add a Bathroom Without a Permit?",
-      "wp_url": "https://tandjremodeling.com/?p=18965",
-      "target_keyword": "what happens if you add a bathroom without a permit",
-      "age_days": 0,
-      "impressions": 3,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 12.7,
-      "leads_total": 0,
-      "bucket": "too-new",
-      "indexed": true
-    },
-    {
-      "wp_post_id": 18967,
-      "title": "Average Cost of a Bathroom Remodel in Wisconsin",
-      "wp_url": "https://tandjremodeling.com/?p=18967",
-      "target_keyword": "what is the average cost of a bathroom remodel in wisconsin",
-      "age_days": 0,
-      "impressions": 2,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 2.0,
-      "leads_total": 0,
-      "bucket": "too-new",
       "indexed": true
     },
     {
@@ -288,6 +246,20 @@
       "indexed": false
     },
     {
+      "wp_post_id": 18943,
+      "title": "Average Kitchen Remodel Cost in Wisconsin (2026 Guide)",
+      "wp_url": "https://tandjremodeling.com/average-cost-kitchen-remodel-wisconsin/",
+      "target_keyword": "what is the average cost of a kitchen remodel in wisconsin",
+      "age_days": 2,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
       "wp_post_id": 18957,
       "title": "Is $100,000 Enough to Renovate a Home? 2026 Budget Guide",
       "wp_url": "https://tandjremodeling.com/100000-enough-renovate-home/",
@@ -306,6 +278,34 @@
       "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin-2/",
       "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18965,
+      "title": "What Happens If You Add a Bathroom Without a Permit?",
+      "wp_url": "https://tandjremodeling.com/add-bathroom-without-permit/",
+      "target_keyword": "what happens if you add a bathroom without a permit",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18967,
+      "title": "Average Cost of a Bathroom Remodel in Wisconsin",
+      "wp_url": "https://tandjremodeling.com/bathroom-remodel-cost-wisconsin/",
+      "target_keyword": "what is the average cost of a bathroom remodel in wisconsin",
       "age_days": 0,
       "impressions": 0,
       "clicks": 0,
