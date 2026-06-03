@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-06-02T14:28:31.537660+00:00",
+  "generated_at_utc": "2026-06-03T05:08:31.325983+00:00",
   "kpis": {
     "posts_live": 21,
     "posts_indexed": 14,
     "impressions_90d": 9741,
     "clicks_90d": 35,
-    "leads_90d": 452,
+    "leads_90d": 450,
     "leads_new": 202,
     "leads_contacted": 0,
     "leads_converted": 0,
-    "leads_spam": 250,
+    "leads_spam": 248,
     "conversion_rate_pct": 0.0,
     "revenue_usd": 0.0
   },
@@ -318,10 +318,6 @@
   ],
   "daily_lead_counts": [
     {
-      "date": "2026-05-03",
-      "count": 0
-    },
-    {
       "date": "2026-05-04",
       "count": 0
     },
@@ -439,6 +435,10 @@
     },
     {
       "date": "2026-06-02",
+      "count": 0
+    },
+    {
+      "date": "2026-06-03",
       "count": 0
     }
   ],
