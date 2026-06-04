@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-04T11:48:30.958891+00:00",
+  "generated_at_utc": "2026-06-04T12:08:30.983039+00:00",
   "kpis": {
-    "posts_live": 31,
+    "posts_live": 32,
     "posts_indexed": 18,
     "impressions_90d": 9870,
     "clicks_90d": 38,
@@ -17,7 +17,7 @@
     "visible-but-no-clicks": 2,
     "performing": 2,
     "indexing-but-invisible": 11,
-    "too-new": 14,
+    "too-new": 15,
     "not-indexed": 2
   },
   "performance_rows": [
@@ -138,7 +138,7 @@
       "title": "Commercial Renovation Cost Per Square Foot in Wisconsin: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/commercial-renovation-cost-per-square-foot-wisconsin/",
       "target_keyword": "commercial renovation cost per square foot Wisconsin",
-      "age_days": 13,
+      "age_days": 14,
       "impressions": 24,
       "clicks": 0,
       "ctr_pct": 0,
@@ -236,7 +236,7 @@
       "title": "7 Warning Signs Your Waukesha County Basement Needs Remodeling (2026)",
       "wp_url": "https://tandjremodeling.com/warning-signs-your-basement-needs-remodeling/",
       "target_keyword": "warning signs your basement needs remodeling",
-      "age_days": 13,
+      "age_days": 14,
       "impressions": 3,
       "clicks": 0,
       "ctr_pct": 0,
@@ -447,6 +447,20 @@
       "wp_url": "https://tandjremodeling.com/vinyl-siding-cost-per-square-foot-waukesha-county-wi/",
       "target_keyword": "vinyl siding cost per square foot Waukesha County Wisconsin",
       "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19077,
+      "title": "Kitchen Remodel Cost in Brookfield, WI: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/?p=19077",
+      "target_keyword": "kitchen remodel cost brookfield wi",
+      "age_days": 0,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
