@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-04T10:48:31.100695+00:00",
+  "generated_at_utc": "2026-06-04T11:08:30.982060+00:00",
   "kpis": {
     "posts_live": 31,
     "posts_indexed": 18,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 2,
     "performing": 2,
     "indexing-but-invisible": 11,
-    "too-new": 15,
-    "not-indexed": 1
+    "too-new": 14,
+    "not-indexed": 2
   },
   "performance_rows": [
     {
@@ -292,13 +292,13 @@
       "title": "What Is the 30% Rule in Remodeling? (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/30-percent-rule-remodeling/",
       "target_keyword": "what is the 30% rule in remodeling",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
       "leads_total": 3,
-      "bucket": "too-new",
+      "bucket": "not-indexed",
       "indexed": false
     },
     {
