@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-06-04T08:48:31.860566+00:00",
+  "generated_at_utc": "2026-06-04T09:08:31.797068+00:00",
   "kpis": {
     "posts_live": 31,
     "posts_indexed": 18,
     "impressions_90d": 9870,
     "clicks_90d": 38,
-    "leads_90d": 440,
-    "leads_new": 201,
+    "leads_90d": 441,
+    "leads_new": 202,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 239,
@@ -124,7 +124,7 @@
       "title": "20\u00d720 Kitchen Remodel Cost in Waukesha County, WI (2026)",
       "wp_url": "https://tandjremodeling.com/20x20-kitchen-remodel-cost/",
       "target_keyword": "how much does a 20x20 kitchen remodel cost in Wisconsin",
-      "age_days": 21,
+      "age_days": 22,
       "impressions": 63,
       "clicks": 0,
       "ctr_pct": 0,
@@ -395,7 +395,7 @@
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
-      "leads_total": 0,
+      "leads_total": 1,
       "bucket": "too-new",
       "indexed": false
     },
@@ -579,13 +579,19 @@
     },
     {
       "date": "2026-06-04",
-      "count": 3
+      "count": 4
     }
   ],
   "per_post_leads": [
     {
       "wp_post_id": 18931,
       "leads": 3,
+      "converted": 0,
+      "revenue_usd": 0.0
+    },
+    {
+      "wp_post_id": 18961,
+      "leads": 1,
       "converted": 0,
       "revenue_usd": 0.0
     }
