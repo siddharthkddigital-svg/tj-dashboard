@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-06-04T05:48:31.425292+00:00",
+  "generated_at_utc": "2026-06-04T06:08:31.512587+00:00",
   "kpis": {
-    "posts_live": 25,
-    "posts_indexed": 18,
-    "impressions_90d": 9870,
+    "posts_live": 31,
+    "posts_indexed": 19,
+    "impressions_90d": 9886,
     "clicks_90d": 38,
-    "leads_90d": 437,
-    "leads_new": 198,
+    "leads_90d": 438,
+    "leads_new": 199,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 239,
@@ -17,7 +17,7 @@
     "visible-but-no-clicks": 2,
     "performing": 2,
     "indexing-but-invisible": 11,
-    "too-new": 9,
+    "too-new": 15,
     "not-indexed": 1
   },
   "performance_rows": [
@@ -145,6 +145,20 @@
       "avg_position": 12.0,
       "leads_total": 0,
       "bucket": "indexing-but-invisible",
+      "indexed": true
+    },
+    {
+      "wp_post_id": 18931,
+      "title": "What Is the 30% Rule in Remodeling? (2026 Guide)",
+      "wp_url": "https://tandjremodeling.com/?p=18931",
+      "target_keyword": "what is the 30% rule in remodeling",
+      "age_days": 6,
+      "impressions": 16,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 14.6,
+      "leads_total": 0,
+      "bucket": "too-new",
       "indexed": true
     },
     {
@@ -288,6 +302,62 @@
       "indexed": false
     },
     {
+      "wp_post_id": 18949,
+      "title": "How Far Will $100k Go in Remodeling? 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/?p=18949",
+      "target_keyword": "how far will $100k go in remodeling",
+      "age_days": 2,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 1,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18951,
+      "title": "Wisconsin Basement Bedroom Code: Egress Rules Explained",
+      "wp_url": "https://tandjremodeling.com/?p=18951",
+      "target_keyword": "what is the code for basement bedrooms in wisconsin",
+      "age_days": 2,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18953,
+      "title": "What Constitutes a Finished Basement in Wisconsin?",
+      "wp_url": "https://tandjremodeling.com/?p=18953",
+      "target_keyword": "what constitutes a finished basement in wisconsin",
+      "age_days": 2,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18955,
+      "title": "What Is the Most Expensive Part of Finishing a Basement?",
+      "wp_url": "https://tandjremodeling.com/?p=18955",
+      "target_keyword": "what is the most expensive part of finishing a basement",
+      "age_days": 2,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
       "wp_post_id": 18957,
       "title": "Is $100,000 Enough to Renovate a Home? 2026 Budget Guide",
       "wp_url": "https://tandjremodeling.com/100000-enough-renovate-home/",
@@ -306,6 +376,20 @@
       "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin-2/",
       "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 2,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 18961,
+      "title": "What Is a Realistic Budget for a Kitchen Remodel?",
+      "wp_url": "https://tandjremodeling.com/?p=18961",
+      "target_keyword": "what is a realistic budget for a kitchen remodel",
       "age_days": 2,
       "impressions": 0,
       "clicks": 0,
@@ -495,8 +579,15 @@
     },
     {
       "date": "2026-06-04",
-      "count": 0
+      "count": 1
     }
   ],
-  "per_post_leads": []
+  "per_post_leads": [
+    {
+      "wp_post_id": 18949,
+      "leads": 1,
+      "converted": 0,
+      "revenue_usd": 0.0
+    }
+  ]
 }
