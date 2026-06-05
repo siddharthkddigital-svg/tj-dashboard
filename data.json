@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-05T13:48:31.958275+00:00",
+  "generated_at_utc": "2026-06-05T14:08:31.814554+00:00",
   "kpis": {
-    "posts_live": 36,
+    "posts_live": 38,
     "posts_indexed": 18,
     "impressions_90d": 9870,
     "clicks_90d": 38,
@@ -17,7 +17,7 @@
     "visible-but-no-clicks": 2,
     "performing": 2,
     "indexing-but-invisible": 11,
-    "too-new": 19,
+    "too-new": 21,
     "not-indexed": 2
   },
   "performance_rows": [
@@ -517,6 +517,34 @@
       "wp_url": "https://tandjremodeling.com/second-story-addition-cost-wisconsin/",
       "target_keyword": "second story addition cost wisconsin",
       "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19088,
+      "title": "Walk-In Shower Cost in Wisconsin: 2026 Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/walk-in-shower-cost-wisconsin/",
+      "target_keyword": "walk in shower cost wisconsin",
+      "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19140,
+      "title": "Is $10,000 Enough for a Bathroom Remodel?",
+      "wp_url": "https://tandjremodeling.com/10000-bathroom-remodel-enough/",
+      "target_keyword": "is $10,000 enough for a bathroom remodel",
+      "age_days": 0,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
