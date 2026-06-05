@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-06-05T05:28:33.534989+00:00",
+  "generated_at_utc": "2026-06-05T05:48:32.040966+00:00",
   "kpis": {
-    "posts_live": 32,
+    "posts_live": 36,
     "posts_indexed": 18,
     "impressions_90d": 9870,
     "clicks_90d": 38,
-    "leads_90d": 434,
-    "leads_new": 198,
+    "leads_90d": 430,
+    "leads_new": 194,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 236,
@@ -17,7 +17,7 @@
     "visible-but-no-clicks": 2,
     "performing": 2,
     "indexing-but-invisible": 11,
-    "too-new": 15,
+    "too-new": 19,
     "not-indexed": 2
   },
   "performance_rows": [
@@ -297,7 +297,7 @@
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
-      "leads_total": 3,
+      "leads_total": 0,
       "bucket": "not-indexed",
       "indexed": false
     },
@@ -395,7 +395,7 @@
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
-      "leads_total": 1,
+      "leads_total": 0,
       "bucket": "too-new",
       "indexed": false
     },
@@ -461,6 +461,62 @@
       "wp_url": "https://tandjremodeling.com/kitchen-remodel-cost-brookfield-wi/",
       "target_keyword": "kitchen remodel cost brookfield wi",
       "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19079,
+      "title": "Bathroom Remodel Cost in Wauwatosa, WI: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/?p=19079",
+      "target_keyword": "bathroom remodel cost wauwatosa wi",
+      "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19081,
+      "title": "Basement Finishing Cost in Waukesha County: Per Sq Ft Guide",
+      "wp_url": "https://tandjremodeling.com/?p=19081",
+      "target_keyword": "basement finishing cost waukesha county",
+      "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19083,
+      "title": "Garage Conversion Cost in Wisconsin: Living-Space ROI (2026)",
+      "wp_url": "https://tandjremodeling.com/?p=19083",
+      "target_keyword": "garage conversion cost wisconsin",
+      "age_days": 1,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19086,
+      "title": "Second Story Addition Cost in Wisconsin: 2026 Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/?p=19086",
+      "target_keyword": "second story addition cost wisconsin",
+      "age_days": 0,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
@@ -589,25 +645,12 @@
     },
     {
       "date": "2026-06-04",
-      "count": 6
+      "count": 2
     },
     {
       "date": "2026-06-05",
       "count": 0
     }
   ],
-  "per_post_leads": [
-    {
-      "wp_post_id": 18931,
-      "leads": 3,
-      "converted": 0,
-      "revenue_usd": 0.0
-    },
-    {
-      "wp_post_id": 18961,
-      "leads": 1,
-      "converted": 0,
-      "revenue_usd": 0.0
-    }
-  ]
+  "per_post_leads": []
 }
