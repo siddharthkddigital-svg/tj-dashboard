@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-06T10:08:32.156606+00:00",
+  "generated_at_utc": "2026-06-06T10:28:31.846484+00:00",
   "kpis": {
     "posts_live": 42,
     "posts_indexed": 18,
@@ -600,7 +600,7 @@
       "title": "Is $10,000 Enough for a Bathroom Remodel?",
       "wp_url": "https://tandjremodeling.com/10000-bathroom-remodel-enough/",
       "target_keyword": "is $10,000 enough for a bathroom remodel",
-      "age_days": 0,
+      "age_days": 1,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
