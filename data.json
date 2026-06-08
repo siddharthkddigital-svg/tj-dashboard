@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-08T07:28:31.596918+00:00",
+  "generated_at_utc": "2026-06-08T07:48:31.305715+00:00",
   "kpis": {
     "posts_live": 52,
     "posts_indexed": 35,
@@ -15,10 +15,10 @@
   },
   "bucket_counts": {
     "visible-but-no-clicks": 4,
-    "too-new": 28,
+    "too-new": 27,
     "performing": 2,
     "cannibalizing": 2,
-    "indexing-but-invisible": 16
+    "indexing-but-invisible": 17
   },
   "performance_rows": [
     {
@@ -54,7 +54,7 @@
       "title": "Home Addition Cost in Wisconsin: Per Sq Ft in 2026",
       "wp_url": "https://tandjremodeling.com/home-addition-cost-wisconsin-per-square-foot/",
       "target_keyword": "home addition cost wisconsin per square foot",
-      "age_days": 29,
+      "age_days": 30,
       "impressions": 1244,
       "clicks": 19,
       "ctr_pct": 1.53,
@@ -166,7 +166,7 @@
       "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin-2/",
       "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 115,
       "clicks": 0,
       "ctr_pct": 0,
@@ -222,7 +222,7 @@
       "title": "20x20 Room Addition Cost in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/20x20-room-addition-cost-wisconsin/",
       "target_keyword": "20x20 room addition cost",
-      "age_days": 24,
+      "age_days": 25,
       "impressions": 71,
       "clicks": 1,
       "ctr_pct": 1.41,
@@ -306,7 +306,7 @@
       "title": "Vinyl Siding Cost per Sq Ft in Waukesha County: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/vinyl-siding-cost-per-square-foot-waukesha-county-wi/",
       "target_keyword": "vinyl siding cost per square foot Waukesha County Wisconsin",
-      "age_days": 4,
+      "age_days": 5,
       "impressions": 35,
       "clicks": 1,
       "ctr_pct": 2.86,
@@ -474,13 +474,13 @@
       "title": "What Is a Realistic Budget for a Kitchen Remodel?",
       "wp_url": "https://tandjremodeling.com/realistic-budget-kitchen-remodel/",
       "target_keyword": "what is a realistic budget for a kitchen remodel",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 3,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 47.3,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
