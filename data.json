@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-06-09T05:48:30.580672+00:00",
+  "generated_at_utc": "2026-06-09T06:09:01.619434+00:00",
   "kpis": {
-    "posts_live": 52,
-    "posts_indexed": 37,
-    "impressions_90d": 17938,
+    "posts_live": 56,
+    "posts_indexed": 36,
+    "impressions_90d": 17963,
     "clicks_90d": 60,
-    "leads_90d": 412,
-    "leads_new": 177,
+    "leads_90d": 413,
+    "leads_new": 178,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 235,
@@ -14,10 +14,10 @@
     "revenue_usd": 0.0
   },
   "bucket_counts": {
-    "visible-but-no-clicks": 6,
-    "too-new": 25,
+    "visible-but-no-clicks": 7,
+    "too-new": 30,
     "performing": 2,
-    "indexing-but-invisible": 19
+    "indexing-but-invisible": 17
   },
   "performance_rows": [
     {
@@ -105,6 +105,20 @@
       "indexed": true
     },
     {
+      "wp_post_id": 18718,
+      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
+      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
+      "age_days": 25,
+      "impressions": 317,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 14.8,
+      "leads_total": 0,
+      "bucket": "visible-but-no-clicks",
+      "indexed": true
+    },
+    {
       "wp_post_id": 18951,
       "title": "Wisconsin Basement Bedroom Code: Egress Rules Explained",
       "wp_url": "https://tandjremodeling.com/basement-bedroom-code-wisconsin/",
@@ -144,34 +158,6 @@
       "avg_position": 10.8,
       "leads_total": 0,
       "bucket": "too-new",
-      "indexed": true
-    },
-    {
-      "wp_post_id": 18718,
-      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
-      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
-      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 25,
-      "impressions": 146,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 20.3,
-      "leads_total": 0,
-      "bucket": "indexing-but-invisible",
-      "indexed": true
-    },
-    {
-      "wp_post_id": 18959,
-      "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
-      "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin-2/",
-      "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 7,
-      "impressions": 146,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 20.3,
-      "leads_total": 0,
-      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -375,7 +361,7 @@
       "title": "Second Story Addition Cost in Wisconsin: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/second-story-addition-cost-wisconsin/",
       "target_keyword": "second story addition cost wisconsin",
-      "age_days": 4,
+      "age_days": 5,
       "impressions": 29,
       "clicks": 0,
       "ctr_pct": 0,
@@ -747,6 +733,76 @@
       "leads_total": 0,
       "bucket": "too-new",
       "indexed": false
+    },
+    {
+      "wp_post_id": 19130,
+      "title": "Luxury Kitchen Remodel Cost in Waukesha County: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/luxury-kitchen-remodel-cost-waukesha-county/",
+      "target_keyword": "luxury kitchen remodel cost waukesha county",
+      "age_days": 3,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19132,
+      "title": "What a $50,000 Bathroom Remodel Gets You in Wisconsin",
+      "wp_url": "https://tandjremodeling.com/50000-bathroom-remodel-wisconsin/",
+      "target_keyword": "50000 bathroom remodel wisconsin",
+      "age_days": 3,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19135,
+      "title": "600 Sq Ft Master Suite Addition Cost in Wisconsin: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/master-suite-addition-cost-wisconsin/",
+      "target_keyword": "master suite addition cost wisconsin",
+      "age_days": 3,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19138,
+      "title": "High-End Basement Finishing Cost in Wisconsin: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/high-end-basement-finishing-wisconsin/",
+      "target_keyword": "high end basement finishing wisconsin",
+      "age_days": 3,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19142,
+      "title": "Smart Home Kitchen Remodel Cost in Wisconsin (2026 Guide)",
+      "wp_url": "https://tandjremodeling.com/smart-home-kitchen-remodel-cost-wisconsin/",
+      "target_keyword": "smart home kitchen remodel cost",
+      "age_days": 3,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
     }
   ],
   "daily_lead_counts": [
@@ -868,7 +924,7 @@
     },
     {
       "date": "2026-06-08",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-06-09",
