@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-06-09T06:29:03.182175+00:00",
+  "generated_at_utc": "2026-06-09T06:49:03.330275+00:00",
   "kpis": {
     "posts_live": 56,
     "posts_indexed": 36,
     "impressions_90d": 17963,
     "clicks_90d": 60,
-    "leads_90d": 413,
-    "leads_new": 178,
+    "leads_90d": 415,
+    "leads_new": 180,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 235,
@@ -14,8 +14,8 @@
     "revenue_usd": 0.0
   },
   "bucket_counts": {
-    "visible-but-no-clicks": 7,
-    "too-new": 30,
+    "visible-but-no-clicks": 8,
+    "too-new": 29,
     "performing": 2,
     "indexing-but-invisible": 17
   },
@@ -95,13 +95,13 @@
       "title": "Realistic Bathroom Remodel Budget: What It Actually Costs",
       "wp_url": "https://tandjremodeling.com/realistic-budget-bathroom-remodel/",
       "target_keyword": "what is a realistic budget for a bathroom remodel",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 720,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 9.5,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "visible-but-no-clicks",
       "indexed": true
     },
     {
@@ -123,7 +123,7 @@
       "title": "Wisconsin Basement Bedroom Code: Egress Rules Explained",
       "wp_url": "https://tandjremodeling.com/basement-bedroom-code-wisconsin/",
       "target_keyword": "what is the code for basement bedrooms in wisconsin",
-      "age_days": 7,
+      "age_days": 8,
       "impressions": 295,
       "clicks": 2,
       "ctr_pct": 0.68,
@@ -179,7 +179,7 @@
       "title": "What Constitutes a Finished Basement in Wisconsin?",
       "wp_url": "https://tandjremodeling.com/finished-basement-wisconsin/",
       "target_keyword": "what constitutes a finished basement in wisconsin",
-      "age_days": 7,
+      "age_days": 8,
       "impressions": 127,
       "clicks": 2,
       "ctr_pct": 1.57,
@@ -702,7 +702,7 @@
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
-      "leads_total": 0,
+      "leads_total": 1,
       "bucket": "too-new",
       "indexed": false
     },
@@ -725,7 +725,7 @@
       "title": "Best Time to Remodel a Bathroom in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/best-time-remodel-bathroom-wisconsin/",
       "target_keyword": "best time to remodel bathroom wisconsin",
-      "age_days": 3,
+      "age_days": 4,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
@@ -928,8 +928,15 @@
     },
     {
       "date": "2026-06-09",
-      "count": 0
+      "count": 2
     }
   ],
-  "per_post_leads": []
+  "per_post_leads": [
+    {
+      "wp_post_id": 19123,
+      "leads": 1,
+      "converted": 0,
+      "revenue_usd": 0.0
+    }
+  ]
 }
