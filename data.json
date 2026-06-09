@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-09T12:48:31.788075+00:00",
+  "generated_at_utc": "2026-06-09T13:08:31.785552+00:00",
   "kpis": {
-    "posts_live": 56,
+    "posts_live": 57,
     "posts_indexed": 36,
     "impressions_90d": 17963,
     "clicks_90d": 60,
@@ -17,7 +17,7 @@
     "visible-but-no-clicks": 10,
     "performing": 2,
     "indexing-but-invisible": 17,
-    "too-new": 27
+    "too-new": 28
   },
   "performance_rows": [
     {
@@ -193,7 +193,7 @@
       "title": "How Long Does a Basement Remodel Take? 2026 Timeline for Waukesha County",
       "wp_url": "https://tandjremodeling.com/how-long-does-a-basement-remodel-take/",
       "target_keyword": "how long does a basement remodel take",
-      "age_days": 26,
+      "age_days": 27,
       "impressions": 82,
       "clicks": 0,
       "ctr_pct": 0,
@@ -795,6 +795,20 @@
       "title": "Smart Home Kitchen Remodel Cost in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/smart-home-kitchen-remodel-cost-wisconsin/",
       "target_keyword": "smart home kitchen remodel cost",
+      "age_days": 4,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19144,
+      "title": "Kitchen Remodelers Near Elm Grove WI: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/?p=19144",
+      "target_keyword": "kitchen remodelers elm grove wi",
       "age_days": 4,
       "impressions": 0,
       "clicks": 0,
