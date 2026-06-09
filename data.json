@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-09T07:48:31.196229+00:00",
+  "generated_at_utc": "2026-06-09T08:35:06.519714+00:00",
   "kpis": {
     "posts_live": 56,
     "posts_indexed": 36,
@@ -14,10 +14,10 @@
     "revenue_usd": 0.0
   },
   "bucket_counts": {
-    "visible-but-no-clicks": 9,
+    "visible-but-no-clicks": 10,
     "performing": 2,
-    "too-new": 28,
-    "indexing-but-invisible": 17
+    "indexing-but-invisible": 17,
+    "too-new": 27
   },
   "performance_rows": [
     {
@@ -151,13 +151,13 @@
       "title": "What Is the Most Expensive Part of a Kitchen Remodel?",
       "wp_url": "https://tandjremodeling.com/most-expensive-part-kitchen-remodel-v48/",
       "target_keyword": "what is the most expensive part of a kitchen remodel",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 290,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 10.8,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "visible-but-no-clicks",
       "indexed": true
     },
     {
@@ -165,7 +165,7 @@
       "title": "Average Kitchen Remodel Cost in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/average-cost-kitchen-remodel-wisconsin/",
       "target_keyword": "what is the average cost of a kitchen remodel in wisconsin",
-      "age_days": 9,
+      "age_days": 10,
       "impressions": 144,
       "clicks": 0,
       "ctr_pct": 0,
@@ -263,7 +263,7 @@
       "title": "What Happens If You Add a Bathroom Without a Permit?",
       "wp_url": "https://tandjremodeling.com/add-bathroom-without-permit/",
       "target_keyword": "what happens if you add a bathroom without a permit",
-      "age_days": 7,
+      "age_days": 8,
       "impressions": 64,
       "clicks": 1,
       "ctr_pct": 1.56,
