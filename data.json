@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-10T05:48:31.770631+00:00",
+  "generated_at_utc": "2026-06-10T06:08:32.317050+00:00",
   "kpis": {
-    "posts_live": 57,
+    "posts_live": 61,
     "posts_indexed": 36,
     "impressions_90d": 17963,
     "clicks_90d": 60,
@@ -17,7 +17,7 @@
     "visible-but-no-clicks": 10,
     "performing": 2,
     "indexing-but-invisible": 17,
-    "too-new": 28
+    "too-new": 32
   },
   "performance_rows": [
     {
@@ -361,7 +361,7 @@
       "title": "Second Story Addition Cost in Wisconsin: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/second-story-addition-cost-wisconsin/",
       "target_keyword": "second story addition cost wisconsin",
-      "age_days": 5,
+      "age_days": 6,
       "impressions": 29,
       "clicks": 0,
       "ctr_pct": 0,
@@ -809,6 +809,62 @@
       "title": "Kitchen Remodelers Near Elm Grove WI: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/kitchen-remodelers-elm-grove-wi/",
       "target_keyword": "kitchen remodelers elm grove wi",
+      "age_days": 4,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19146,
+      "title": "Bathroom Remodel Financing in Wisconsin: Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/?p=19146",
+      "target_keyword": "bathroom remodel financing wisconsin",
+      "age_days": 4,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19150,
+      "title": "How to Budget for a Whole House Remodel in Wisconsin",
+      "wp_url": "https://tandjremodeling.com/?p=19150",
+      "target_keyword": "whole house remodel budget wisconsin",
+      "age_days": 4,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19152,
+      "title": "Best Time to Schedule a Kitchen Remodel in Wisconsin",
+      "wp_url": "https://tandjremodeling.com/?p=19152",
+      "target_keyword": "best time to schedule kitchen remodel wisconsin",
+      "age_days": 4,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19154,
+      "title": "Kitchen Remodel ROI in Wisconsin: What Investors Need to Know",
+      "wp_url": "https://tandjremodeling.com/?p=19154",
+      "target_keyword": "kitchen remodel roi wisconsin",
       "age_days": 4,
       "impressions": 0,
       "clicks": 0,
