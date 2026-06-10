@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-10T07:28:32.052577+00:00",
+  "generated_at_utc": "2026-06-10T07:48:32.147970+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 36,
@@ -16,8 +16,8 @@
   "bucket_counts": {
     "visible-but-no-clicks": 10,
     "performing": 2,
-    "indexing-but-invisible": 17,
-    "too-new": 32
+    "indexing-but-invisible": 18,
+    "too-new": 31
   },
   "performance_rows": [
     {
@@ -53,7 +53,7 @@
       "title": "Home Addition Cost in Wisconsin: Per Sq Ft in 2026",
       "wp_url": "https://tandjremodeling.com/home-addition-cost-wisconsin-per-square-foot/",
       "target_keyword": "home addition cost wisconsin per square foot",
-      "age_days": 31,
+      "age_days": 32,
       "impressions": 1357,
       "clicks": 19,
       "ctr_pct": 1.4,
@@ -207,7 +207,7 @@
       "title": "20x20 Room Addition Cost in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/20x20-room-addition-cost-wisconsin/",
       "target_keyword": "20x20 room addition cost",
-      "age_days": 26,
+      "age_days": 27,
       "impressions": 71,
       "clicks": 1,
       "ctr_pct": 1.41,
@@ -277,13 +277,13 @@
       "title": "Vinyl Siding Cost per Sq Ft in Waukesha County: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/vinyl-siding-cost-per-square-foot-waukesha-county-wi/",
       "target_keyword": "vinyl siding cost per square foot Waukesha County Wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 58,
       "clicks": 1,
       "ctr_pct": 1.72,
       "avg_position": 31.6,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -445,7 +445,7 @@
       "title": "What Is a Realistic Budget for a Kitchen Remodel?",
       "wp_url": "https://tandjremodeling.com/realistic-budget-kitchen-remodel/",
       "target_keyword": "what is a realistic budget for a kitchen remodel",
-      "age_days": 8,
+      "age_days": 9,
       "impressions": 12,
       "clicks": 0,
       "ctr_pct": 0,
