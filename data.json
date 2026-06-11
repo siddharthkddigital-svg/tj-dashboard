@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T08:29:47.568170+00:00",
+  "generated_at_utc": "2026-06-11T08:48:31.781908+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -18,8 +18,8 @@
     "clicks-but-no-leads": 1,
     "performing": 2,
     "indexing-but-invisible": 23,
-    "too-new": 24,
-    "not-indexed": 2
+    "too-new": 23,
+    "not-indexed": 3
   },
   "performance_rows": [
     {
@@ -153,7 +153,7 @@
       "title": "Average Cost of a Bathroom Remodel in Wisconsin",
       "wp_url": "https://tandjremodeling.com/bathroom-remodel-cost-wisconsin/",
       "target_keyword": "what is the average cost of a bathroom remodel in wisconsin",
-      "age_days": 9,
+      "age_days": 10,
       "impressions": 299,
       "clicks": 0,
       "ctr_pct": 0,
@@ -265,7 +265,7 @@
       "title": "Bathroom Remodeling Contractor Pewaukee WI: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/bathroom-remodeling-contractor-pewaukee-wi/",
       "target_keyword": "bathroom remodeling contractor Pewaukee WI",
-      "age_days": 28,
+      "age_days": 29,
       "impressions": 70,
       "clicks": 0,
       "ctr_pct": 0,
@@ -671,13 +671,13 @@
       "title": "Kitchen Cabinet Replacement Cost in Waukesha: Stock vs Custom",
       "wp_url": "https://tandjremodeling.com/kitchen-cabinet-replacement-cost-waukesha-wi/",
       "target_keyword": "kitchen cabinet replacement cost waukesha",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "not-indexed",
       "indexed": false
     },
     {
