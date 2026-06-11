@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T09:08:31.201414+00:00",
+  "generated_at_utc": "2026-06-11T09:28:31.161155+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -18,8 +18,8 @@
     "clicks-but-no-leads": 1,
     "performing": 2,
     "indexing-but-invisible": 23,
-    "too-new": 22,
-    "not-indexed": 4
+    "too-new": 21,
+    "not-indexed": 5
   },
   "performance_rows": [
     {
@@ -27,7 +27,7 @@
       "title": "Whole House Remodel Cost in Wisconsin: 2026 Per Sq Ft Guide",
       "wp_url": "https://tandjremodeling.com/whole-house-remodel-cost-wisconsin-per-square-foot/",
       "target_keyword": "whole house remodel cost wisconsin per square foot",
-      "age_days": 32,
+      "age_days": 33,
       "impressions": 6785,
       "clicks": 8,
       "ctr_pct": 0.12,
@@ -83,7 +83,7 @@
       "title": "What Homeowners Can Do Without a Permit in Wisconsin (2026 Waukesha County Guide)",
       "wp_url": "https://tandjremodeling.com/what-can-a-homeowner-do-without-a-permit-in-wisconsin/",
       "target_keyword": "what can a homeowner do without a permit in Wisconsin",
-      "age_days": 27,
+      "age_days": 28,
       "impressions": 1152,
       "clicks": 12,
       "ctr_pct": 1.04,
@@ -125,7 +125,7 @@
       "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
       "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 27,
+      "age_days": 28,
       "impressions": 318,
       "clicks": 0,
       "ctr_pct": 0,
@@ -699,13 +699,13 @@
       "title": "Sunroom Addition Cost in WI: 3-Season vs 4-Season Pricing (2026)",
       "wp_url": "https://tandjremodeling.com/sunroom-addition-cost-wisconsin/",
       "target_keyword": "sunroom cost wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "not-indexed",
       "indexed": false
     },
     {
