@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T11:48:30.795939+00:00",
+  "generated_at_utc": "2026-06-11T12:08:31.586681+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 9,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 25,
-    "too-new": 17,
+    "indexing-but-invisible": 26,
+    "too-new": 16,
     "not-indexed": 7
   },
   "performance_rows": [
@@ -321,7 +321,7 @@
       "title": "Commercial Renovation Cost Per Square Foot in Wisconsin: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/commercial-renovation-cost-per-square-foot-wisconsin/",
       "target_keyword": "commercial renovation cost per square foot Wisconsin",
-      "age_days": 20,
+      "age_days": 21,
       "impressions": 50,
       "clicks": 0,
       "ctr_pct": 0,
@@ -517,7 +517,7 @@
       "title": "7 Warning Signs Your Waukesha County Basement Needs Remodeling (2026)",
       "wp_url": "https://tandjremodeling.com/warning-signs-your-basement-needs-remodeling/",
       "target_keyword": "warning signs your basement needs remodeling",
-      "age_days": 20,
+      "age_days": 21,
       "impressions": 8,
       "clicks": 0,
       "ctr_pct": 0,
@@ -531,13 +531,13 @@
       "title": "Fixer-Upper Remodel Cost in Wisconsin: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/fixer-upper-remodel-cost-wisconsin/",
       "target_keyword": "fixer upper remodel cost wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 8,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 53.8,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
