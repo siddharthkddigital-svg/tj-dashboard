@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T05:48:31.754130+00:00",
+  "generated_at_utc": "2026-06-11T06:08:31.181878+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 9,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 21,
-    "too-new": 27,
+    "indexing-but-invisible": 22,
+    "too-new": 26,
     "not-indexed": 1
   },
   "performance_rows": [
@@ -335,13 +335,13 @@
       "title": "Second Story Addition Cost in Wisconsin: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/second-story-addition-cost-wisconsin/",
       "target_keyword": "second story addition cost wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 50,
       "clicks": 2,
       "ctr_pct": 4.0,
       "avg_position": 28.6,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
