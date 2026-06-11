@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T05:08:31.435808+00:00",
+  "generated_at_utc": "2026-06-11T05:28:31.536105+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -17,8 +17,9 @@
     "visible-but-no-clicks": 9,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 18,
-    "too-new": 31
+    "indexing-but-invisible": 19,
+    "too-new": 29,
+    "not-indexed": 1
   },
   "performance_rows": [
     {
@@ -446,13 +447,13 @@
       "title": "Bathroom Remodel Cost in Wauwatosa, WI: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/bathroom-remodel-cost-wauwatosa-wi/",
       "target_keyword": "bathroom remodel cost wauwatosa wi",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 15,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 43.1,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -642,13 +643,13 @@
       "title": "Kitchen Remodel Cost in Brookfield, WI: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/kitchen-remodel-cost-brookfield-wi/",
       "target_keyword": "kitchen remodel cost brookfield wi",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "not-indexed",
       "indexed": false
     },
     {
