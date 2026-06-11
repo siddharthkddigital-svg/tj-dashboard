@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T12:08:31.586681+00:00",
+  "generated_at_utc": "2026-06-11T12:28:31.230026+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 9,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 26,
-    "too-new": 16,
+    "indexing-but-invisible": 28,
+    "too-new": 14,
     "not-indexed": 7
   },
   "performance_rows": [
@@ -433,13 +433,13 @@
       "title": "Wisconsin Roofing Permit: When You Need One & What to Ask",
       "wp_url": "https://tandjremodeling.com/wisconsin-roofing-permit/",
       "target_keyword": "wisconsin roofing permit",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 17,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 7.6,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -559,13 +559,13 @@
       "title": "Wisconsin Bathroom Plumbing Permit: When You Need One",
       "wp_url": "https://tandjremodeling.com/wisconsin-bathroom-plumbing-permit/",
       "target_keyword": "wisconsin bathroom plumbing permit",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 6,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 7.3,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
