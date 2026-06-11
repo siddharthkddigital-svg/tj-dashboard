@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T06:48:31.692501+00:00",
+  "generated_at_utc": "2026-06-11T07:08:31.771916+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -17,9 +17,9 @@
     "visible-but-no-clicks": 9,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 22,
-    "too-new": 26,
-    "not-indexed": 1
+    "indexing-but-invisible": 23,
+    "too-new": 24,
+    "not-indexed": 2
   },
   "performance_rows": [
     {
@@ -41,7 +41,7 @@
       "title": "What Does a $10,000 Bathroom Remodel Look Like?",
       "wp_url": "https://tandjremodeling.com/10000-bathroom-remodel/",
       "target_keyword": "what does a $10,000 bathroom remodel look like",
-      "age_days": 8,
+      "age_days": 9,
       "impressions": 5887,
       "clicks": 13,
       "ctr_pct": 0.22,
@@ -181,7 +181,7 @@
       "title": "What Constitutes a Finished Basement in Wisconsin?",
       "wp_url": "https://tandjremodeling.com/finished-basement-wisconsin/",
       "target_keyword": "what constitutes a finished basement in wisconsin",
-      "age_days": 9,
+      "age_days": 10,
       "impressions": 145,
       "clicks": 2,
       "ctr_pct": 1.38,
@@ -391,7 +391,7 @@
       "title": "What Is the Most Expensive Part of Finishing a Basement?",
       "wp_url": "https://tandjremodeling.com/most-expensive-part-finishing-basement/",
       "target_keyword": "what is the most expensive part of finishing a basement",
-      "age_days": 9,
+      "age_days": 10,
       "impressions": 27,
       "clicks": 1,
       "ctr_pct": 3.7,
@@ -405,13 +405,13 @@
       "title": "Walk-In Shower Cost in Wisconsin: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/walk-in-shower-cost-wisconsin/",
       "target_keyword": "walk in shower cost wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 21,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 51.6,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -657,13 +657,13 @@
       "title": "Tub-to-Shower Conversion Cost in Wisconsin: Honest Numbers",
       "wp_url": "https://tandjremodeling.com/tub-to-shower-conversion-cost-wisconsin/",
       "target_keyword": "tub to shower conversion cost wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "not-indexed",
       "indexed": false
     },
     {
