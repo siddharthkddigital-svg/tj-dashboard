@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-11T11:28:30.709577+00:00",
+  "generated_at_utc": "2026-06-11T11:48:30.795939+00:00",
   "kpis": {
     "posts_live": 61,
     "posts_indexed": 44,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 9,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 24,
-    "too-new": 18,
+    "indexing-but-invisible": 25,
+    "too-new": 17,
     "not-indexed": 7
   },
   "performance_rows": [
@@ -587,13 +587,13 @@
       "title": "DIY vs Hiring a Pro: Bathroom Remodel Cost Compared (WI)",
       "wp_url": "https://tandjremodeling.com/diy-vs-hire-pro-bathroom-remodel-cost/",
       "target_keyword": "diy vs hire pro bathroom remodel cost",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 2,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 6.5,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
