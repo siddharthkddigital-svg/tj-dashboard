@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-11T14:08:31.188681+00:00",
+  "generated_at_utc": "2026-06-11T14:28:30.586183+00:00",
   "kpis": {
-    "posts_live": 61,
+    "posts_live": 63,
     "posts_indexed": 46,
     "impressions_90d": 21950,
     "clicks_90d": 80,
@@ -18,7 +18,7 @@
     "clicks-but-no-leads": 1,
     "performing": 2,
     "indexing-but-invisible": 31,
-    "too-new": 14,
+    "too-new": 16,
     "not-indexed": 5
   },
   "performance_rows": [
@@ -868,6 +868,34 @@
       "wp_url": "https://tandjremodeling.com/kitchen-remodel-roi-wisconsin/",
       "target_keyword": "kitchen remodel roi wisconsin",
       "age_days": 6,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19345,
+      "title": "Tear Down vs Remodel in Wisconsin: 2026 Cost Comparison",
+      "wp_url": "https://tandjremodeling.com/tear-down-vs-remodel-wisconsin/",
+      "target_keyword": "tear down vs remodel wisconsin",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19349,
+      "title": "ADU Cost in Wisconsin Per Sq Ft: 2026 Cost & Hiring Guide",
+      "wp_url": "https://tandjremodeling.com/adu-cost-wisconsin-per-square-foot/",
+      "target_keyword": "adu cost wisconsin per square foot",
+      "age_days": 0,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
