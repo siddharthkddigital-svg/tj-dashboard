@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-12T10:49:04.516191+00:00",
+  "generated_at_utc": "2026-06-12T11:08:32.538220+00:00",
   "kpis": {
     "posts_live": 64,
     "posts_indexed": 53,
@@ -17,9 +17,9 @@
     "visible-but-no-clicks": 7,
     "clicks-but-no-leads": 1,
     "performing": 3,
-    "indexing-but-invisible": 41,
-    "too-new": 7,
-    "not-indexed": 5
+    "indexing-but-invisible": 42,
+    "not-indexed": 6,
+    "too-new": 5
   },
   "performance_rows": [
     {
@@ -503,7 +503,7 @@
       "title": "What Is the 30% Rule in Remodeling? (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/30-percent-rule-remodeling/",
       "target_keyword": "what is the 30% rule in remodeling",
-      "age_days": 14,
+      "age_days": 15,
       "impressions": 28,
       "clicks": 0,
       "ctr_pct": 0,
@@ -531,7 +531,7 @@
       "title": "How to Spot a Lowball Bathroom Remodel Quote",
       "wp_url": "https://tandjremodeling.com/lowball-bathroom-remodel-quote/",
       "target_keyword": "lowball bathroom remodel quote",
-      "age_days": 7,
+      "age_days": 8,
       "impressions": 16,
       "clicks": 0,
       "ctr_pct": 0,
@@ -615,13 +615,13 @@
       "title": "How to Budget for a Whole House Remodel in Wisconsin",
       "wp_url": "https://tandjremodeling.com/whole-house-remodel-budget-wisconsin/",
       "target_keyword": "whole house remodel budget wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 10,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 28.7,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -685,7 +685,7 @@
       "title": "How to Choose a Kitchen Remodeling Contractor in Waukesha County",
       "wp_url": "https://tandjremodeling.com/choose-kitchen-remodeling-contractor-waukesha/",
       "target_keyword": "how to choose kitchen remodeling contractor waukesha",
-      "age_days": 7,
+      "age_days": 8,
       "impressions": 7,
       "clicks": 0,
       "ctr_pct": 0,
@@ -839,13 +839,13 @@
       "title": "Bathroom Remodel Financing in Wisconsin: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/bathroom-remodel-financing-wisconsin/",
       "target_keyword": "bathroom remodel financing wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 0,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "not-indexed",
       "indexed": false
     },
     {
