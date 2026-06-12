@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-12T06:28:33.237771+00:00",
+  "generated_at_utc": "2026-06-12T06:48:31.727423+00:00",
   "kpis": {
     "posts_live": 64,
     "posts_indexed": 46,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 8,
     "clicks-but-no-leads": 1,
     "performing": 2,
-    "indexing-but-invisible": 33,
-    "too-new": 15,
+    "indexing-but-invisible": 34,
+    "too-new": 14,
     "not-indexed": 5
   },
   "performance_rows": [
@@ -97,7 +97,7 @@
       "title": "Realistic Bathroom Remodel Budget: What It Actually Costs",
       "wp_url": "https://tandjremodeling.com/realistic-budget-bathroom-remodel/",
       "target_keyword": "what is a realistic budget for a bathroom remodel",
-      "age_days": 9,
+      "age_days": 10,
       "impressions": 821,
       "clicks": 0,
       "ctr_pct": 0,
@@ -111,7 +111,7 @@
       "title": "Wisconsin Basement Bedroom Code: Egress Rules Explained",
       "wp_url": "https://tandjremodeling.com/basement-bedroom-code-wisconsin/",
       "target_keyword": "what is the code for basement bedrooms in wisconsin",
-      "age_days": 10,
+      "age_days": 11,
       "impressions": 412,
       "clicks": 5,
       "ctr_pct": 1.21,
@@ -587,13 +587,13 @@
       "title": "Best Time to Remodel a Bathroom in Wisconsin (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/best-time-remodel-bathroom-wisconsin/",
       "target_keyword": "best time to remodel bathroom wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 10,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 19.1,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
@@ -879,7 +879,7 @@
     {
       "wp_post_id": 19156,
       "title": "Bathroom Remodel Mistakes to Avoid in Waukesha County",
-      "wp_url": "https://tandjremodeling.com/?p=19156",
+      "wp_url": "https://tandjremodeling.com/bathroom-remodel-mistakes-waukesha/",
       "target_keyword": "bathroom remodel mistakes waukesha",
       "age_days": 6,
       "impressions": 0,
