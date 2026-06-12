@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-12T13:48:31.509891+00:00",
+  "generated_at_utc": "2026-06-12T14:08:31.530198+00:00",
   "kpis": {
-    "posts_live": 64,
+    "posts_live": 67,
     "posts_indexed": 53,
     "impressions_90d": 23717,
     "clicks_90d": 87,
@@ -19,7 +19,7 @@
     "performing": 3,
     "indexing-but-invisible": 42,
     "not-indexed": 9,
-    "too-new": 2
+    "too-new": 5
   },
   "performance_rows": [
     {
@@ -909,6 +909,48 @@
       "title": "ADU Cost in Wisconsin Per Sq Ft: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/adu-cost-wisconsin-per-square-foot/",
       "target_keyword": "adu cost wisconsin per square foot",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19375,
+      "title": "Detached Garage Cost in Wisconsin: Per Sq Ft 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/detached-garage-cost-wisconsin-per-square-foot/",
+      "target_keyword": "detached garage cost wisconsin per square foot",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19381,
+      "title": "What Wisconsin Homeowners Can Do Without a Contractor (2026 Guide)",
+      "wp_url": "https://tandjremodeling.com/wisconsin-homeowners-diy-without-contractor/",
+      "target_keyword": "what homeowners can do without contractor wisconsin",
+      "age_days": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_pct": 0,
+      "avg_position": 0,
+      "leads_total": 0,
+      "bucket": "too-new",
+      "indexed": false
+    },
+    {
+      "wp_post_id": 19384,
+      "title": "Pole Barn Home Cost in Wisconsin: Per Sq Ft 2026 Guide",
+      "wp_url": "https://tandjremodeling.com/pole-barn-home-cost-wisconsin-per-square-foot/",
+      "target_keyword": "pole barn home cost wisconsin per square foot",
       "age_days": 0,
       "impressions": 0,
       "clicks": 0,
