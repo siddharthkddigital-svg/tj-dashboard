@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-12T09:49:04.456898+00:00",
+  "generated_at_utc": "2026-06-12T10:08:31.835946+00:00",
   "kpis": {
     "posts_live": 64,
     "posts_indexed": 53,
@@ -17,8 +17,8 @@
     "visible-but-no-clicks": 7,
     "clicks-but-no-leads": 1,
     "performing": 3,
-    "indexing-but-invisible": 36,
-    "too-new": 12,
+    "indexing-but-invisible": 37,
+    "too-new": 11,
     "not-indexed": 5
   },
   "performance_rows": [
@@ -83,7 +83,7 @@
       "title": "Remodel vs. Build New in Wisconsin: Which Is Cheaper in 2026?",
       "wp_url": "https://tandjremodeling.com/remodel-vs-build-new-cost-wisconsin/",
       "target_keyword": "remodel vs build new cost",
-      "age_days": 33,
+      "age_days": 34,
       "impressions": 1220,
       "clicks": 2,
       "ctr_pct": 0.16,
@@ -741,13 +741,13 @@
       "title": "600 Sq Ft Master Suite Addition Cost in Wisconsin: Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/master-suite-addition-cost-wisconsin/",
       "target_keyword": "master suite addition cost wisconsin",
-      "age_days": 6,
+      "age_days": 7,
       "impressions": 4,
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 9.5,
       "leads_total": 0,
-      "bucket": "too-new",
+      "bucket": "indexing-but-invisible",
       "indexed": true
     },
     {
