@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-06-16T09:08:31.030359+00:00",
+  "generated_at_utc": "2026-06-16T09:28:31.028482+00:00",
   "kpis": {
     "posts_live": 68,
     "posts_indexed": 61,
     "impressions_90d": 28643,
     "clicks_90d": 114,
-    "leads_90d": 365,
-    "leads_new": 151,
+    "leads_90d": 367,
+    "leads_new": 153,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 214,
@@ -41,7 +41,7 @@
       "title": "Whole House Remodel Cost in Wisconsin: 2026 Per Sq Ft Guide",
       "wp_url": "https://tandjremodeling.com/whole-house-remodel-cost-wisconsin-per-square-foot/",
       "target_keyword": "whole house remodel cost wisconsin per square foot",
-      "age_days": 37,
+      "age_days": 38,
       "impressions": 6808,
       "clicks": 8,
       "ctr_pct": 0.12,
@@ -55,7 +55,7 @@
       "title": "What Homeowners Can Do Without a Permit in Wisconsin (2026 Waukesha County Guide)",
       "wp_url": "https://tandjremodeling.com/what-can-a-homeowner-do-without-a-permit-in-wisconsin/",
       "target_keyword": "what can a homeowner do without a permit in Wisconsin",
-      "age_days": 32,
+      "age_days": 33,
       "impressions": 1874,
       "clicks": 22,
       "ctr_pct": 1.17,
@@ -153,7 +153,7 @@
       "title": "Water Damage Restoration Cost in Milwaukee & Waukesha County: 2026 Guide",
       "wp_url": "https://tandjremodeling.com/water-damage-restoration-cost-milwaukee-wisconsin/",
       "target_keyword": "how much does water damage restoration cost in Milwaukee Wisconsin",
-      "age_days": 32,
+      "age_days": 33,
       "impressions": 319,
       "clicks": 0,
       "ctr_pct": 0,
@@ -335,7 +335,7 @@
       "title": "Sunroom Addition Cost in WI: 3-Season vs 4-Season Pricing (2026)",
       "wp_url": "https://tandjremodeling.com/sunroom-addition-cost-wisconsin/",
       "target_keyword": "sunroom cost wisconsin",
-      "age_days": 11,
+      "age_days": 12,
       "impressions": 102,
       "clicks": 2,
       "ctr_pct": 1.96,
@@ -1094,11 +1094,11 @@
     },
     {
       "date": "2026-06-15",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-06-16",
-      "count": 0
+      "count": 1
     }
   ],
   "per_post_leads": []
