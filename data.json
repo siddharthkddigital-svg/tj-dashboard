@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-07-13T04:48:32.028588+00:00",
+  "generated_at_utc": "2026-07-13T05:08:34.395208+00:00",
   "kpis": {
     "posts_live": 71,
     "posts_indexed": 71,
     "impressions_90d": 92520,
     "clicks_90d": 472,
-    "leads_90d": 126,
-    "leads_new": 63,
+    "leads_90d": 129,
+    "leads_new": 66,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 63,
@@ -1130,11 +1130,11 @@
     },
     {
       "date": "2026-07-11",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-07-12",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-13",
