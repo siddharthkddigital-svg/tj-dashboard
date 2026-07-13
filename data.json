@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-07-13T05:29:04.157967+00:00",
+  "generated_at_utc": "2026-07-13T05:48:38.568915+00:00",
   "kpis": {
     "posts_live": 71,
     "posts_indexed": 71,
     "impressions_90d": 92520,
     "clicks_90d": 472,
-    "leads_90d": 129,
-    "leads_new": 66,
+    "leads_90d": 132,
+    "leads_new": 69,
     "leads_contacted": 0,
     "leads_converted": 0,
     "leads_spam": 63,
@@ -473,7 +473,7 @@
       "title": "Garage Conversion Cost in Wisconsin: Living-Space ROI (2026)",
       "wp_url": "https://tandjremodeling.com/garage-conversion-cost-wisconsin/",
       "target_keyword": "garage conversion cost wisconsin",
-      "age_days": 38,
+      "age_days": 39,
       "impressions": 198,
       "clicks": 3,
       "ctr_pct": 1.52,
@@ -515,7 +515,7 @@
       "title": "Basement Finishing Cost in Waukesha County: Per Sq Ft Guide",
       "wp_url": "https://tandjremodeling.com/basement-finishing-cost-waukesha-county/",
       "target_keyword": "basement finishing cost waukesha county",
-      "age_days": 38,
+      "age_days": 39,
       "impressions": 188,
       "clicks": 3,
       "ctr_pct": 1.6,
@@ -989,7 +989,7 @@
     {
       "wp_post_id": 19354,
       "title": "How Much to Redo a 100 Sq Ft Bathroom? Cost & Hiring Guide",
-      "wp_url": "https://tandjremodeling.com/?p=19354",
+      "wp_url": "https://tandjremodeling.com/redo-100-sq-ft-bathroom-cost/",
       "target_keyword": "how much to redo a 100 sq ft bathroom",
       "age_days": 30,
       "impressions": 3,
@@ -1010,7 +1010,7 @@
       "clicks": 0,
       "ctr_pct": 0,
       "avg_position": 31.3,
-      "leads_total": 0,
+      "leads_total": 1,
       "bucket": "indexing-but-invisible",
       "indexed": true
     }
@@ -1110,11 +1110,11 @@
     },
     {
       "date": "2026-07-06",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-07-07",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2026-07-08",
@@ -1141,5 +1141,12 @@
       "count": 0
     }
   ],
-  "per_post_leads": []
+  "per_post_leads": [
+    {
+      "wp_post_id": 19469,
+      "leads": 1,
+      "converted": 0,
+      "revenue_usd": 0.0
+    }
+  ]
 }
