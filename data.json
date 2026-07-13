@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-07-13T06:08:31.146515+00:00",
+  "generated_at_utc": "2026-07-13T06:28:31.597756+00:00",
   "kpis": {
-    "posts_live": 71,
-    "posts_indexed": 71,
-    "impressions_90d": 92520,
+    "posts_live": 70,
+    "posts_indexed": 69,
+    "impressions_90d": 92514,
     "clicks_90d": 472,
     "leads_90d": 132,
     "leads_new": 69,
@@ -17,7 +17,8 @@
     "visible-but-no-clicks": 22,
     "clicks-but-no-leads": 4,
     "performing": 10,
-    "indexing-but-invisible": 35
+    "indexing-but-invisible": 33,
+    "not-indexed": 1
   },
   "performance_rows": [
     {
@@ -403,7 +404,7 @@
       "title": "Wisconsin Home Addition Permit: Process & Timeline Guide",
       "wp_url": "https://tandjremodeling.com/wisconsin-home-addition-permit/",
       "target_keyword": "wisconsin home addition permit",
-      "age_days": 37,
+      "age_days": 38,
       "impressions": 276,
       "clicks": 2,
       "ctr_pct": 0.72,
@@ -501,7 +502,7 @@
       "title": "How Long Does a Kitchen Remodel Take in Wisconsin?",
       "wp_url": "https://tandjremodeling.com/kitchen-remodel-timeline-wisconsin/",
       "target_keyword": "how long does kitchen remodel take wisconsin",
-      "age_days": 37,
+      "age_days": 38,
       "impressions": 190,
       "clicks": 3,
       "ctr_pct": 1.58,
@@ -627,7 +628,7 @@
       "title": "How Far Will $100k Go in Remodeling? 2026 Guide",
       "wp_url": "https://tandjremodeling.com/how-far-will-100k-go-in-remodeling/",
       "target_keyword": "how far will $100k go in remodeling",
-      "age_days": 41,
+      "age_days": 42,
       "impressions": 100,
       "clicks": 2,
       "ctr_pct": 2.0,
@@ -992,27 +993,13 @@
       "wp_url": "https://tandjremodeling.com/redo-100-sq-ft-bathroom-cost/",
       "target_keyword": "how much to redo a 100 sq ft bathroom",
       "age_days": 30,
-      "impressions": 3,
+      "impressions": 0,
       "clicks": 0,
       "ctr_pct": 0,
-      "avg_position": 31.3,
+      "avg_position": 0,
       "leads_total": 0,
-      "bucket": "indexing-but-invisible",
-      "indexed": true
-    },
-    {
-      "wp_post_id": 19469,
-      "title": "How Much to Redo a 100 Sq Ft Bathroom? Cost & Hiring Guide",
-      "wp_url": "https://tandjremodeling.com/redo-100-sq-ft-bathroom-cost-2/",
-      "target_keyword": "how much to redo a 100 sq ft bathroom",
-      "age_days": 26,
-      "impressions": 3,
-      "clicks": 0,
-      "ctr_pct": 0,
-      "avg_position": 31.3,
-      "leads_total": 1,
-      "bucket": "indexing-but-invisible",
-      "indexed": true
+      "bucket": "not-indexed",
+      "indexed": false
     }
   ],
   "daily_lead_counts": [
