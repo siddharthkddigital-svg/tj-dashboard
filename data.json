@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-07-14T13:28:31.807573+00:00",
+  "generated_at_utc": "2026-07-15T04:49:13.483803+00:00",
   "kpis": {
     "posts_live": 70,
     "posts_indexed": 69,
     "impressions_90d": 96219,
     "clicks_90d": 500,
-    "leads_90d": 126,
-    "leads_new": 67,
+    "leads_90d": 112,
+    "leads_new": 63,
     "leads_contacted": 0,
     "leads_converted": 0,
-    "leads_spam": 59,
+    "leads_spam": 49,
     "conversion_rate_pct": 0.0,
     "revenue_usd": 0.0
   },
@@ -292,7 +292,7 @@
       "title": "Detached Garage Cost in Wisconsin: Per Sq Ft 2026 Guide",
       "wp_url": "https://tandjremodeling.com/detached-garage-cost-wisconsin-per-square-foot/",
       "target_keyword": "detached garage cost wisconsin per square foot",
-      "age_days": 31,
+      "age_days": 32,
       "impressions": 511,
       "clicks": 13,
       "ctr_pct": 2.54,
@@ -320,7 +320,7 @@
       "title": "Pole Barn Home Cost in Wisconsin: Per Sq Ft 2026 Guide",
       "wp_url": "https://tandjremodeling.com/pole-barn-home-cost-wisconsin-per-square-foot/",
       "target_keyword": "pole barn home cost wisconsin per square foot",
-      "age_days": 31,
+      "age_days": 32,
       "impressions": 478,
       "clicks": 5,
       "ctr_pct": 1.05,
@@ -558,7 +558,7 @@
       "title": "Tear Down vs Remodel in Wisconsin: 2026 Cost Comparison",
       "wp_url": "https://tandjremodeling.com/tear-down-vs-remodel-wisconsin/",
       "target_keyword": "tear down vs remodel wisconsin",
-      "age_days": 32,
+      "age_days": 33,
       "impressions": 153,
       "clicks": 0,
       "ctr_pct": 0,
@@ -726,7 +726,7 @@
       "title": "What Wisconsin Homeowners Can Do Without a Contractor (2026 Guide)",
       "wp_url": "https://tandjremodeling.com/wisconsin-homeowners-diy-without-contractor/",
       "target_keyword": "what homeowners can do without contractor wisconsin",
-      "age_days": 31,
+      "age_days": 32,
       "impressions": 57,
       "clicks": 1,
       "ctr_pct": 1.75,
@@ -796,7 +796,7 @@
       "title": "ADU Cost in Wisconsin Per Sq Ft: 2026 Cost & Hiring Guide",
       "wp_url": "https://tandjremodeling.com/adu-cost-wisconsin-per-square-foot/",
       "target_keyword": "adu cost wisconsin per square foot",
-      "age_days": 32,
+      "age_days": 33,
       "impressions": 27,
       "clicks": 0,
       "ctr_pct": 0,
@@ -1004,10 +1004,6 @@
   ],
   "daily_lead_counts": [
     {
-      "date": "2026-06-14",
-      "count": 0
-    },
-    {
       "date": "2026-06-15",
       "count": 1
     },
@@ -1125,6 +1121,10 @@
     },
     {
       "date": "2026-07-14",
+      "count": 0
+    },
+    {
+      "date": "2026-07-15",
       "count": 0
     }
   ],
